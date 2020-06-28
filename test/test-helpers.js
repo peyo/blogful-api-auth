@@ -286,7 +286,6 @@ module.exports = {
   makeExpectedArticleComments,
   makeMaliciousArticle,
   makeCommentsArray,
-
   makeArticlesFixtures,
   cleanTables,
   seedArticlesTables,
